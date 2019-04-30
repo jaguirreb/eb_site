@@ -1,0 +1,4 @@
+
+etiqueta ul y ol, tambien el class
+https://www.w3schools.com/html/default.asp
+bootstrap es un framework con css
